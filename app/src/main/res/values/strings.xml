@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Authorization</string>
+    <string name="aut">Авторизация</string>
+    <string name="user">Пользователь:</string>
+    <string name="password">Пароль:</string>
+    <string name="inp1">введите имя</string>
+    <string name="inp2">введите пароль</string>
+    <string name="btn">ВОЙТИ</string>
+</resources>
